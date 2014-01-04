@@ -474,6 +474,6 @@
   <!-- p880 specific stuff -->
   <project name="P880-dev/android_device_lge_p880" path="device/lge/p880" remote="github" revision="cm11-dev" />
   <project name="P880-dev/android_kernel_lge_x3" path="kernel/lge/x3" remote="github" revision="cm11-dev" />
-  <project path="vendor/lge" name="P880-dev/proprietary_vendor_lge" revision="cm11-dev" />    
+  <project path="vendor/lge" name="P880-dev/proprietary_vendor_lge" revision="cm-11.0" />    
   
 </manifest>
